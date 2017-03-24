@@ -1,5 +1,20 @@
 {
   "name": "ember-quickstart",
   "dependencies": {
-  }
+    "bootstrap": "^3.3.7"
+  },
+  "homepage": "https://github.com/bear2029/download-with-js",
+  "authors": [
+    "bhsiung <bhsiung@synack.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
